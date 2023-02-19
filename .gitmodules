@@ -4,3 +4,9 @@
 [submodule "themes/blist"]
 	path = themes/blist
 	url = https://github.com/apvarun/blist-hugo-theme.git
+[submodule "FlorKi610.github.io"]
+	path = FlorKi610.github.io
+	url = https://github.com/FlorKi610/FlorKi610.github.io.git
+[submodule "public"]
+	path = public
+	url = https://github.com/FlorKi610/FlorKi610.github.io.git
